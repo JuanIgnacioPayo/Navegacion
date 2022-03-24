@@ -52,6 +52,7 @@ class Fragment1 : Fragment() {
 
         usuarios.add(Usuario("Juan", "juan@gmail.com","1234"))
         usuarios.add(Usuario("Facu", "facu@gmail.com","1234"))
+        usuarios.add(Usuario("Ale", "ale@gmail.com","1234"))
 
         btnLogin.setOnClickListener {
 
